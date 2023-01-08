@@ -1,0 +1,22 @@
+{
+  "name": "my-anan-wds",
+  "version": "1.0.0",
+  "description": "Is this string WDS ?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnanthaNagaraj/demo-publish-random.git"
+  },
+  "keywords": [
+    "MYWDS"
+  ],
+  "author": "Anantha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnanthaNagaraj/demo-publish-random/issues"
+  },
+  "homepage": "https://github.com/AnanthaNagaraj/demo-publish-random#readme"
+}
